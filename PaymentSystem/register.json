@@ -1,0 +1,9 @@
+{
+   "request": "register",
+   "login": "<login>",
+   "email": "<email>",
+   "password": "<md5(password)>",
+   "password2": "<md5(password2)>"
+}
+answer
+HTTP ok/error

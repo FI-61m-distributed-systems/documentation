@@ -1,0 +1,8 @@
+{
+   "request": "get money",
+   "user": "<user>" // login or email?
+}
+answer
+{
+   "money": <value>
+}

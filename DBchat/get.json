@@ -1,0 +1,16 @@
+{
+   "request": "fetch",
+   "last_date": <value>
+}
+answer
+{
+   "messages": // all messages after last_date
+   [
+      {
+         "user": "<...>",
+         "date": "<...>",
+         "message": "<...>"
+      },
+      ...
+   ]
+}

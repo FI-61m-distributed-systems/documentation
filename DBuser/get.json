@@ -1,0 +1,22 @@
+{
+   "type": "get",
+   "fields": // all optional but empty is malformed
+   [
+      "email",
+      "money",
+      ...
+   ],
+   "conditions":
+   [
+      {"<field>", "< =, >, <,... >", "<value>"},
+      ...
+   ]
+}
+// answer
+{
+   "values":
+   [
+      {"<field>": <value>, ...}
+      ...
+   ]
+}

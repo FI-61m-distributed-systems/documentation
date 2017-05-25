@@ -1,0 +1,24 @@
+{
+   "type": "update",
+   "transaction":
+   [
+      {
+         "action": "insert",
+         "login": "...",
+         "password": "...",
+         "email": "...",
+         // ... every field that require initialization
+      },
+      {
+         "action": "delete",
+         "conditions": [/* same as in get request */]
+      },
+      {
+         "action": "update",
+         "<field>": value, // for money additionaly +value and -value
+         "conditions": [/* same as in get request */]
+      }
+   ]
+}
+// answer
+HTTP ok/error
