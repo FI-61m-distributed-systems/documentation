@@ -1,5 +1,5 @@
 {
-   "type": "send",
+   "request": "send",
    "message":
    {
       "user": "<...>",

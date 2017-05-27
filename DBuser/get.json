@@ -1,5 +1,5 @@
 {
-   "type": "get",
+   "request": "get",
    "fields": // all optional but empty is malformed
    [
       "email",
