@@ -1,0 +1,8 @@
+{
+   "request": "transfer money",
+   "user": "<user>", // login or email?
+   "receiver": "<receiver>", // login or email?
+   "amount": <value> // test >0
+}
+answer
+HTTP ok/error

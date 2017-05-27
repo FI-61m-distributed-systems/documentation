@@ -1,0 +1,7 @@
+{
+   "request": "authorize",
+   "user": "<user>", // login or email?
+   "password": "<md5(password)>"
+}
+answer
+HTTP ok/error

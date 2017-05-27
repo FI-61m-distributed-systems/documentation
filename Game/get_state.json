@@ -1,0 +1,14 @@
+{
+   "request": "get state",
+   "user": "<user>" // login or email?
+}
+answer
+{
+   "field":
+   [
+      <value>, <value>, <value>, <value>,
+      <value>, <value>, <value>, <value>,
+      <value>, <value>, <value>, <value>,
+      <value>, <value>, <value>, <value>
+   ]
+}

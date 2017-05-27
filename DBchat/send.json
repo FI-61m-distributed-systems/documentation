@@ -1,0 +1,11 @@
+{
+   "request": "send",
+   "message":
+   {
+      "user": "<...>",
+      "date": "<...>",
+      "message": "<...>"
+   }
+}
+// answer
+HTTP ok/error
