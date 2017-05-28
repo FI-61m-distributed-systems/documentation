@@ -15,7 +15,8 @@
       },
       {
          "action": "update",
-         "<field>": value, // for money additionaly +value and -value
+         "field": "<field>",
+         "value": <value>, // for money additionaly +value and -value
          "conditions": [/* same as in get request */]
       }
    ]
