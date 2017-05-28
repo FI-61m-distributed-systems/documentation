@@ -4,4 +4,12 @@
    "action": "<up / down / left / right / restart>"
 }
 answer
-HTTP ok/error
+{
+   "field":
+   [
+      <value>, <value>, <value>, <value>,
+      <value>, <value>, <value>, <value>,
+      <value>, <value>, <value>, <value>,
+      <value>, <value>, <value>, <value>
+   ]
+}
